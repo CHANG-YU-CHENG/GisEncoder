@@ -4,7 +4,7 @@ In this project, you can upload a file contains address(xlsx format) and convert
 -------
 
 ## (1) add google map javascript api key:
-###in main.html, add your key 
+### in main.html, add your key 
 ```html
 <script src="https://maps.googleapis.com/maps/api/js?key=[YOUR KEY]&language=en"></script>
 ```
